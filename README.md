@@ -26,12 +26,12 @@ Misez une somme, vous aurez une chance sûr 9 de gagner win1Multiple (voir confi
 
 
 
-
 ## Plus ou moins
 
 Vous jouez à deux.
 Ce jeux s'inspire du célèbre "plus ou moins". Un joueur choisi de miser une somme. Un autre joueur accepte le défi.
 L'objectif pour les deux joueurs est de trouver le nombre aléatoire séléctionné par le plugin le plus rapidement possible. A chaque tentative,  un message s'affichera au joueur leur indiquant si le nombre qu'il ont donné est plus grand ou plus petit que le nombre aléatoire choisi. Le premier à trouver le nombre aléatoire remporte la mise.
+![alt img](https://snipboard.io/KNnJSF.jpg)
 
 # Config
 ```yaml
