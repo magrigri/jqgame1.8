@@ -1,0 +1,16 @@
+name: Games
+version: 1.0
+author: JQ
+main: fr.jq.games.Main
+commands:
+  jqgame:
+    description: Show games commands
+    permission: jq.games.game
+    aliases: [game]
+
+permissions:
+  jq.games.game:
+    description: Allows game command
+    default: true
+
+depend: [Vault]

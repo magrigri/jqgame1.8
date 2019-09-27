@@ -1,0 +1,31 @@
+inventoryNames:
+  choseAGame: "Choix un jeu"
+  pomQueue: "Liste d'attente Plus Ou Moins"
+  pomPlaying: "Partie en cours"
+  macPlay: "choix de la mise"
+  macStartPlay: "Choisissez une carte"
+  stats: "Statistiques "
+
+prefix: "&c[Games] &a "
+
+Pom:
+  minBet: 1
+  maxBet: 100
+
+Mac:
+  win1Multiple: 2
+  win2Multiple: 9
+
+Storage:
+  Mac:
+    uuid:
+      lose: 0
+      equality: 0
+      win1: 0
+      win2: 0
+      totalMoneyWin: 0
+  Pom:
+    uuid:
+      win: 0
+      lose: 0
+      totalMoneyWin: 0
