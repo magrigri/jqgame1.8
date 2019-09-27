@@ -35,7 +35,7 @@ L'objectif pour les deux joueurs est de trouver le nombre aléatoire séléction
 
 # Config
 ```yaml
-# Nombres des inventaires
+# Noms des inventaires
 inventoryNames:
   choseAGame: "Choix un jeu"
   pomQueue: "Liste d'attente Plus Ou Moins"
@@ -44,7 +44,7 @@ inventoryNames:
   macStartPlay: "Choisissez une carte"
   stats: "Statistiques "
 
-# préfix lorsque le plugin envoie des messages aux joueurs
+# préfixe qui s'affiche lorsque le plugin envoie des messages aux joueurs
 prefix: "&c[Games] &a "
 
 # Somme minimal et maximal que l'on peut parier au jeu "Plus ou moins"
