@@ -14,6 +14,8 @@ Dependencies: vault
 Vous jouez seul.
 Misez une somme, vous aurez une chance sûr 9 de gagner win1Multiple (voir config) fois vôtre mise, une chance de gagner win2Multiple (voir config) fois votre mise et une chance de ne rien gagner ni rien perdre. 
 
+![alt img](https://snipboard.io/q2JCuA.jpg)
+
 ## Plus ou moins
 
 Vous jouez à deux.
