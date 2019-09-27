@@ -6,7 +6,9 @@ JQgames1.8 est un plugin spigot regroupant des mini-jeux jouables dans un invent
 
 
 Tested with spigot version: 1.8.8
+
 Lang: FR
+
 Dependencies: vault
 
 # Modes de jeux
