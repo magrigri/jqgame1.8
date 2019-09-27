@@ -7,6 +7,10 @@ Tested with spigot version: 1.8.8
 Lang: FR
 Dependencies: vault
 
+# Modes de jeux
+
 ## Machines à sous
 
 ## Plus ou moins
+
+# Config
