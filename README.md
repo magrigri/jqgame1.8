@@ -2,6 +2,8 @@
 
 JQgames1.8 est un plugin spigot regroupant des mini-jeux jouables dans un inventaire, avec un ou plusieurs joueurs. Il propose également des statistiques (victoires, défaites).
 
+![alt img](https://snipboard.io/D3PY5u.jpg)
+
 
 Tested with spigot version: 1.8.8
 Lang: FR
